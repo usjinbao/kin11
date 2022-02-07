@@ -9,7 +9,7 @@
     <a href="https://hub.docker.com/r/ranqi03/kingfeng"><img src="https://img.shields.io/docker/stars/ranqi03/kingfeng?style=popout-square" alt="Docker Stars"></a>
 </p>
 
-技术栈 `vue 2` `asp.net core` `docker` 
+技术栈 `vue 2` `asp.net core` `docker` 1
 
 本项目后端使用Swagger UI 生成的 OpenAPI文档
 
